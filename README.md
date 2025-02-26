@@ -1,20 +1,30 @@
-## Hi there 👋
+# matthew_freeman(1) - software developer
 
-<!--
-**m6freeman/m6freeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``` plaintext
+Are you sure you want to quit?
+All unsaved progress will be lost.
 
-Here are some ideas to get you started:
+~ Nintendo
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## NAME
 
-# Test
+**matthew_freeman** - software developer
 
-Test body
+## SYNOPSIS
+
+`mf --enthusiast linux [arch debian rhel] neovim open_source rust`
+
+`mf --game_programmer unity [c#]`
+
+`mf --professional agile confluence infor [fsm ghr lawson] jira scrum`
+
+`mf --serverless_developer aws [cdk dynamodb ec2 lambda [dotnet python] s3 sam sqs]`
+
+`mf --software_engineer dotnet [core framework] git iis_for_windows_server ms_sql_server`
+
+## DESCRIPTION
+
+Actively develops event-driven, serverless enterprise solutions while supporting legacy corporate infrastructure.
+
+Strong technical background encompassing a variety of software and hardware technologies.
