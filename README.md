@@ -28,3 +28,7 @@ All unsaved progress will be lost.
 Actively develops event-driven, serverless enterprise solutions while supporting legacy corporate infrastructure.
 
 Strong technical background encompassing a variety of software and hardware technologies.
+
+## SEE ALSO
+
+[https://m6freeman.github.io/](https://m6freeman.github.io/)
