@@ -15,9 +15,9 @@ All unsaved progress will be lost.
 
 `mf --game_programmer unity [c#]`
 
-`mf --professional agile confluence infor [fsm ghr ion lawson] jira scrum`
+`mf --professional agile confluence infor [fsm ghr ionapi lawson] jira scrum`
 
-`mf --serverless_developer aws [dynamodb ec2 eventbridge lambda [dotnet python] s3 sam ses sns sqs]`
+`mf --serverless_developer aws [dynamodb ec2 ecr ecs eventbridge lambda [dotnet python] s3 ses sns sqs] docker github_actions terraform`
 
 `mf --software_engineer c# dotnet [core framework] git iis_for_windows_server ms_sql_server python`
 
