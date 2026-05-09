@@ -11,7 +11,9 @@ All unsaved progress will be lost.
 
 ## SYNOPSIS
 
-`mf --enthusiast linux [arch debian rhel] neovim ocaml open_source rust`
+`mf --ai agent_harness [copilot opencode pi] model [gemma4:26b gpt-oss:20b sonnet4.6] runtime [llama.ccp ollama]`
+
+`mf --enthusiast linux [arch debian rhel] open_source privacy security`
 
 `mf --game_programmer unity [c#]`
 
@@ -23,10 +25,14 @@ All unsaved progress will be lost.
 
 ## DESCRIPTION
 
-Actively develops event-driven, serverless enterprise solutions while supporting legacy corporate infrastructure.
+Engineers event‑driven, serverless enterprise solutions with automated CI/CD pipelines and agentic workflows, while maintaining legacy corporate infrastructure
 
-Strong technical background encompassing a variety of software and hardware technologies.
+Strong technical background encompassing a variety of software and hardware technologies
 
 ## SEE ALSO
 
 [https://m6freeman.github.io/](https://m6freeman.github.io/)
+
+```bash
+curl -s https://m6freeman.sh
+```
