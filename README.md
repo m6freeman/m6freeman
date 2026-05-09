@@ -31,8 +31,8 @@ Strong technical background encompassing a variety of software and hardware tech
 
 ## SEE ALSO
 
-[https://m6freeman.github.io/](https://m6freeman.github.io/)
-
 ```bash
 curl -s https://m6freeman.sh
 ```
+
+[https://m6freeman.github.io/](https://m6freeman.github.io/)
